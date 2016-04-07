@@ -1,0 +1,28 @@
+name: dejan
+favicon: null
+layout_spectrum: 0.4659318884368986
+typography_spectrum: 0.8634383792523295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8402860872447491
+  lightness: 0.32359335804358125
+  saturation: 0.6154889792669564
+  rhythmicContrast: 0.16666143527254462
+purpose: []
